@@ -2,9 +2,9 @@
 -std=c99
 -ferror-limit=100
 -I
-C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\STM8L15x_StdPeriph_Driver\inc
+C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\..\STM8L15x_StdPeriph_Driver\inc
 -I
-C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\User\First_Project
+C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\..\User\First_Project
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\inc
 -I

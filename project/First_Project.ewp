@@ -257,8 +257,8 @@
         </option>
         <option>
           <name>CCIncludePath2</name>
-          <state>C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\STM8L15x_StdPeriph_Driver\inc</state>
-          <state>C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\User\First_Project</state>
+          <state>$PROJ_DIR$\..\STM8L15x_StdPeriph_Driver\inc</state>
+          <state>$PROJ_DIR$\..\User\First_Project</state>
         </option>
         <option>
           <name>CCStdIncCheck</name>
