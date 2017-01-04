@@ -1,21 +1,21 @@
 ###############################################################################
 #
-# IAR ELF Linker V2.20.1.176 for STM8                     03/Jan/2017  22:16:59
+# IAR ELF Linker V2.20.1.176 for STM8                     04/Jan/2017  10:46:21
 # Copyright 2010-2015 IAR Systems AB.
 #
 #    Output file  =  
-#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\project\Debug\Exe\First_Project.out
+#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\Debug\Exe\First_Project.out
 #    Map file     =  
-#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\project\Debug\List\First_Project.map
+#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\Debug\List\First_Project.map
 #    Command line =  
-#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\project\Debug\Obj\main.o
-#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\project\Debug\Obj\stm8l15x_clk.o
-#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\project\Debug\Obj\stm8l15x_gpio.o
-#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\project\Debug\Obj\stm8l15x_it.o
+#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\Debug\Obj\main.o
+#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\Debug\Obj\stm8l15x_clk.o
+#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\Debug\Obj\stm8l15x_gpio.o
+#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\Debug\Obj\stm8l15x_it.o
 #        --redirect _Printf=_PrintfSmall --redirect _Scanf=_ScanfSmall -o
-#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\project\Debug\Exe\First_Project.out
+#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\Debug\Exe\First_Project.out
 #        --map
-#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\project\Debug\List\First_Project.map
+#        C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\Debug\List\First_Project.map
 #        --config "C:\Program Files (x86)\IAR Systems\Embedded Workbench
 #        7.3\stm8\config\lnkstm8l152c6.icf" --config_def _CSTACK_SIZE=0x100
 #        --config_def _HEAP_SIZE=0x100 --entry __iar_program_start --debug_lib
@@ -119,7 +119,7 @@ __rt_version               = 4
 
     Module                 ro code  ro data  rw data
     ------                 -------  -------  -------
-C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\project\Debug\Obj: [1]
+C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\Debug\Obj: [1]
     main.o                       2
     stm8l15x_it.o               30
     ------------------------------------------------
@@ -274,7 +274,7 @@ exit                      0x0080e1   0x3  Code  Gb  exit.o [4]
 main                      0x0080e7   0x2  Code  Gb  main.o [1]
 
 
-[1] = C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\project\Debug\Obj
+[1] = C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\Project\Debug\Obj
 [2] = command line
 [3] = dbgstm8smd.a
 [4] = dlstm8smn.a

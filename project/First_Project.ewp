@@ -257,8 +257,8 @@
         </option>
         <option>
           <name>CCIncludePath2</name>
-          <state>C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\lib\inc</state>
-          <state>C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\user\First_Project</state>
+          <state>C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\STM8L15x_StdPeriph_Driver\inc</state>
+          <state>C:\Users\xuanv\Documents\GitHub\STM8L_Discovery\STM8L_Discovery\User\First_Project</state>
         </option>
         <option>
           <name>CCStdIncCheck</name>
@@ -1592,19 +1592,19 @@
   <group>
     <name>lib</name>
     <file>
-      <name>$PROJ_DIR$\..\lib\src\stm8l15x_clk.c</name>
+      <name>$PROJ_DIR$\..\STM8L15x_StdPeriph_Driver\src\stm8l15x_clk.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\lib\src\stm8l15x_gpio.c</name>
+      <name>$PROJ_DIR$\..\STM8L15x_StdPeriph_Driver\src\stm8l15x_gpio.c</name>
     </file>
   </group>
   <group>
     <name>user</name>
     <file>
-      <name>$PROJ_DIR$\..\user\First_Project\main.c</name>
+      <name>$PROJ_DIR$\..\User\First_Project\main.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\user\First_Project\stm8l15x_it.c</name>
+      <name>$PROJ_DIR$\..\User\First_Project\stm8l15x_it.c</name>
     </file>
   </group>
 </project>
